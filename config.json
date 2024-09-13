@@ -1,0 +1,83 @@
+{
+  "user_id": 1,
+  "playlist_id": 79,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "",
+  "hidden": false,
+  "media": [
+    {
+      "title": "مناقشة كتاب أفكار خارج القفص - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:26:46",
+      "link": "https://www.youtube.com/watch?v=yzPhLdxaimQ",
+      "transcript_txt": "yzPhLdxaimQ.txt",
+      "transcript_srt": "yzPhLdxaimQ.srt"
+    },
+    {
+      "title": "مناقشة كتاب بناء شبكات الاعتدال الإسلامي - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:53:18",
+      "link": "https://www.youtube.com/watch?v=HgNMjJfDz5s",
+      "transcript_txt": "HgNMjJfDz5s.txt",
+      "transcript_srt": "HgNMjJfDz5s.srt"
+    },
+    {
+      "title": "مناقشة كتاب ما بعد السلفية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:46:58",
+      "link": "https://www.youtube.com/watch?v=BltJeFk0KVU",
+      "transcript_txt": "BltJeFk0KVU.txt",
+      "transcript_srt": "BltJeFk0KVU.srt"
+    },
+    {
+      "title": "مناقشة كتاب الإسلام الديمقراطي المدني - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "00:34:39",
+      "link": "https://www.youtube.com/watch?v=Wrg3dQHtrTs",
+      "transcript_txt": "Wrg3dQHtrTs.txt",
+      "transcript_srt": "Wrg3dQHtrTs.srt"
+    },
+    {
+      "title": "مناقشة كتاب رسالة في الطريق إلى ثقافتنا | الجزء الأول - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "03:16:16",
+      "link": "https://www.youtube.com/watch?v=OrlOGo5Ro9I",
+      "transcript_txt": "OrlOGo5Ro9I.txt",
+      "transcript_srt": "OrlOGo5Ro9I.srt"
+    },
+    {
+      "title": "مناقشة كتاب رسالة في الطريق إلى ثقافتنا | الجزء الثاني - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "03:44:32",
+      "link": "https://www.youtube.com/watch?v=TyDwsYPrBm4",
+      "transcript_txt": "TyDwsYPrBm4.txt",
+      "transcript_srt": "TyDwsYPrBm4.srt"
+    },
+    {
+      "title": "مناقشة كتاب ذواقة الشاي | علم الإحصاء والطفرة العلمية في القرن العشرين - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:04:07",
+      "link": "https://www.youtube.com/watch?v=DE35hYCS8Zk",
+      "transcript_txt": "DE35hYCS8Zk.txt",
+      "transcript_srt": "DE35hYCS8Zk.srt"
+    },
+    {
+      "title": "شروط النهضة عند مالك بن نبي - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:25:30",
+      "link": "https://www.youtube.com/watch?v=h7l4NUWDJXk",
+      "transcript_txt": "h7l4NUWDJXk.txt",
+      "transcript_srt": "h7l4NUWDJXk.srt"
+    },
+    {
+      "title": "هندسة النهضة عند مالك بن نبي - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:19:15",
+      "link": "https://www.youtube.com/watch?v=qKj5R71dOjM",
+      "transcript_txt": "qKj5R71dOjM.txt",
+      "transcript_srt": "qKj5R71dOjM.srt"
+    }
+  ]
+}
